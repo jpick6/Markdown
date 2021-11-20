@@ -6,7 +6,7 @@
 ### contents
 1.[item1](#item1)
 2.[item2](item2)
-3.;item3](item3)
+3.[item3](item3)
 
 ** Lorem** 
 
